@@ -26,7 +26,7 @@ For your project this week, you will demonstrate proficiency by working with a g
 
 #### Your primary role User Interface Developer:
 
-You will build a marketing page that matches the theme chosen by your group and provides the user with details about the product your team has chosen to build. Your landing page must responsive mobile and desktop screen widths. You are to have a login button that links the user over to the main application. Your marketing page must be hosted.
+You will build a marketing page that matches the theme chosen by your group and provides the user with details about the product your team has chosen to build. Your landing page must include responsive mobile and desktop screen widths. You are to have a login button that links the user over to the main application. Your marketing page must be hosted.
 
 Use [this rubric](https://docs.google.com/spreadsheets/d/1BbdmSMUdzURMo0wcsr4XSKvegDgB28WkK2wnjmORzDo/edit?usp=sharing) to help guide your development processes
 
