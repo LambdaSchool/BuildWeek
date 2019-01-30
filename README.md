@@ -30,6 +30,7 @@ You will build a marketing page that matches the theme chosen by your group and 
 
 Use [this rubric](https://docs.google.com/spreadsheets/d/1BbdmSMUdzURMo0wcsr4XSKvegDgB28WkK2wnjmORzDo/edit?usp=sharing) to help guide your development processes
 
+
 ## Web Application Development Role Description
 
 React JS has been your focus over the last 4 weeks. You will use those skills learned during the React Unit to build out a web application that consumes a CRUD API.
@@ -97,6 +98,8 @@ In the Computer Science portion of the curriculum you have learned a number of s
 You, yourself, will have pieces of the project to work on. Additionally, your problem solving skills can be brought to bear across many of the project's subsystems, so be available to help anywhere you can. You might have your hands in a lot of different source files. If the project schedule permits it, push your boundaries and set up something more advanced like CI/CD.
 
 IMPORTANT: You're not the manager or boss; you are equal in rank to your teammates. Your job is to serve and enable the other members of the team (and yourself!) to do work more effectively.
+
+Use [this rubric](https://docs.google.com/spreadsheets/d/1XilyekU-THaEUnXb77L9xym-7xytxFWjscpDcKPiNw4/edit?usp=sharing) to help guide your development processes
 
 ## Instructions
 
